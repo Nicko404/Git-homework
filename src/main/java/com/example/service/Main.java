@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Now is ready for realise");
         System.out.println("Only bugfixes");
         System.out.println("Some more bugfixes");
+        System.out.println("Some more development");
     }
 
     public static void someLogic() {
