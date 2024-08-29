@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Application is ready for realise");
         System.out.println("Now is ready for realise");
         System.out.println("Only bugfixes");
+        System.out.println("Some more bugfixes");
     }
 
     public static void someLogic() {
