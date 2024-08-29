@@ -5,6 +5,7 @@ public class Main {
         System.out.println("I want to say hello to this world");
         System.out.println("Application is ready for realise");
         System.out.println("Now is ready for realise");
+        System.out.println("Only bugfixes");
     }
 
     public static void someLogic() {
