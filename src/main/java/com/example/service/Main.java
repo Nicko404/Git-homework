@@ -9,5 +9,6 @@ public class Main {
 
     public static void someLogic() {
         System.out.println("Print some logic");
+        System.out.println("Print more some logic");
     }
 }
