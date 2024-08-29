@@ -3,6 +3,7 @@ package com.example.service;
 public class Main {
     public static void main(String[] args) {
         System.out.println("I want to say hello to this world");
+        System.out.println("Application is ready for realise");
     }
 
     public static void someLogic() {
